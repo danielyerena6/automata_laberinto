@@ -1,0 +1,10 @@
+C:\Users\Ruben\source\repos\Laberinto\Laberinto\bin\Debug\Laberinto.exe.config
+C:\Users\Ruben\source\repos\Laberinto\Laberinto\bin\Debug\Laberinto.exe
+C:\Users\Ruben\source\repos\Laberinto\Laberinto\bin\Debug\Laberinto.pdb
+C:\Users\Ruben\source\repos\Laberinto\Laberinto\obj\Debug\Laberinto.csprojAssemblyReference.cache
+C:\Users\Ruben\source\repos\Laberinto\Laberinto\obj\Debug\Laberinto.Form1.resources
+C:\Users\Ruben\source\repos\Laberinto\Laberinto\obj\Debug\Laberinto.Properties.Resources.resources
+C:\Users\Ruben\source\repos\Laberinto\Laberinto\obj\Debug\Laberinto.csproj.GenerateResource.cache
+C:\Users\Ruben\source\repos\Laberinto\Laberinto\obj\Debug\Laberinto.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\source\repos\Laberinto\Laberinto\obj\Debug\Laberinto.exe
+C:\Users\Ruben\source\repos\Laberinto\Laberinto\obj\Debug\Laberinto.pdb
